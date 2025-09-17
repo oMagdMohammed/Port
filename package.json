@@ -4,7 +4,7 @@
   "description": "محفظة محلل البيانات باستخدام Svelte",
   "main": "index.js",
   "scripts": {
-    "build": "rollup -c",
+  "build": "npx rollup -c",
     "dev": "rollup -c -w",
     "start": "sirv public --no-cors"
   },
